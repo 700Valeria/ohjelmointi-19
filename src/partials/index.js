@@ -32,6 +32,7 @@ import Quiznator from './Quiznator'
 import PleaseLogin from './PleaseLogin'
 import FloatImageRight from './FloatImageRight'
 import CodeStatesVisualizer from './CodeStatesVisualizer'
+import CrowdSorcerer from './CrowdSorcerer'
 
 import {
   Table,
@@ -52,6 +53,7 @@ const mapping = {
   'please-login': PleaseLogin,
   'float-image-right': FloatImageRight,
   'code-states-visualizer': CodeStatesVisualizer,
+  'crowdsorcerer': CrowdSorcerer,
   youtube: Youtube,
   quiznator: Quiznator,
   table: Table,
